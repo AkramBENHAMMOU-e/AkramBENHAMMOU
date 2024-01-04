@@ -9,7 +9,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/akram-benhammou-a888a9221/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+                    <img alt="LinkedIn" title="Akram Benhammou" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+                </a>
   </a>
   <a href="mailto:benhammou.Akram4@gmail.com?subject=Github%20Contact&body=Hi%20Akram," target="_blank">
                     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
